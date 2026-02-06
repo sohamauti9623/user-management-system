@@ -35,7 +35,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'delta_app',
-    password: "Sohamsql@123"
+    password: "********"
 });
 
 
